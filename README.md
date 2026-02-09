@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Nishanth Manoharan
 
-🚀 AI Engineer | GenAI • Machine Learning • Computer Vision  
+🚀 AI Engineer | GenAI • LLMs • RAG • AI Agents | Data-Driven Systems
 🎓 MS in Data Analytics Engineering | Northeastern University  
 
-I build **intelligent, data-driven systems** that solve real-world problems using **Deep Learning, Computer Vision, and Generative AI**. I enjoy taking ideas from research to implementation with a strong focus on **model performance, data quality, and scalability**.
+I build **intelligent, data-driven systems** that solve real-world problems using **AI/ML and Generative AI**. I enjoy translating research ideas into practice, with a strong focus on **model performance, data quality, and scalability**.
 
 ---
 
@@ -42,16 +42,6 @@ I build **intelligent, data-driven systems** that solve real-world problems usin
 - Feature Engineering & Model Evaluation
 - Class Imbalance Handling & Data Augmentation
 
----
-
-### 👁️ Computer Vision
-- Image Classification
-- Object Detection & Localization
-- YOLOv8 (Multi-class Detection)
-- OpenCV, PIL
-- Bounding Box Annotation (YOLO format)
-- Synthetic Image Generation
-- Evaluation Metrics (mAP, Precision, Recall)
 
 ---
 
@@ -131,7 +121,6 @@ I build **intelligent, data-driven systems** that solve real-world problems usin
 - Advanced Generative AI systems  
 - Retrieval-Augmented Generation (RAG)  
 - AI Agents & Tool Calling  
-- Scalable ML pipelines  
 
 ---
 
