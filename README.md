@@ -134,15 +134,15 @@ I strongly believe **data quality matters more than model complexity**, and well
    https://github.com/nishanth3112/gen_proj_fashion_diffusion_model
 
 2. 💰 **Autonomous Wealth Management Chatbot**  
-   https://github.com/nishanth3112/Wealth_Management_Chatbot_
+   https://github.com/nishanth3112/Wealth_Management_Chatbot
 
 3. 🏗️ **Financial Data Pipeline**  
    https://github.com/nishanth3112/financial_data_pipeline
 
 4. 📈 **Time Series Analysis in Python**  
-   https://github.com/nishanth3112/time_series_python_
+   https://github.com/nishanth3112/time_series_python
 
 5. 💬 **Conversational EDA Chatbot**  
-   https://github.com/nishanth3112/eda_chatbot_
+   https://github.com/nishanth3112/eda_chatbot
 
    ## ⭐ Feel free to explore my repositories and connect — always open to collaboration and learning!
