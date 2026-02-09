@@ -15,12 +15,12 @@ I build **intelligent, data-driven systems** that solve real-world problems usin
 
 ## 🧠 Areas of Interest
 
-🤖 Generative AI & LLMs
-📚 Retrieval-Augmented Generation (RAG)
-🧠 AI Agents
-👁️ Machine Learning and Deep Learning
-📊 Data Analytics Engineering
-⚙️ Model Training, Evaluation & Deployment
+- 🤖 Generative AI & LLMs
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🧠 AI Agents
+- 👁️ Machine Learning and Deep Learning
+- 📊 Data Analytics Engineering
+- ⚙️ Model Training, Evaluation & Deployment
 
 ## 🛠️ Tech Stack
 
