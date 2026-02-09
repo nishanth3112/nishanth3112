@@ -3,7 +3,7 @@
 - 🚀 AI Engineer | GenAI • LLMs • RAG • AI Agents | Data-Driven Systems
 - 🎓 MS in Data Analytics Engineering | Northeastern University  
 
-I build **intelligent, data-driven systems** that solve real-world problems using **AI/ML and Generative AI**. I enjoy translating research and self-driven ideas into practice, with a strong focus on **model performance, data quality, and scalability**.
+I build **intelligent, data-driven systems** that solve real-world problems using **AI/ML and Generative AI**. I enjoy translating research and self-driven ideas into practice, with a strong focus on **GenAI, AI Agents, model performance, data quality, and scalability**.
 
 ---
 
