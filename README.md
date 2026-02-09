@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nishanth Manoharan
 
-🚀 AI Engineer | GenAI • LLMs • RAG • AI Agents | Data-Driven Systems
-🎓 MS in Data Analytics Engineering | Northeastern University  
+- 🚀 AI Engineer | GenAI • LLMs • RAG • AI Agents | Data-Driven Systems
+- 🎓 MS in Data Analytics Engineering | Northeastern University  
 
 I build **intelligent, data-driven systems** that solve real-world problems using **AI/ML and Generative AI**. I enjoy translating research ideas into practice, with a strong focus on **model performance, data quality, and scalability**.
 
