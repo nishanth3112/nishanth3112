@@ -14,7 +14,7 @@ I build **intelligent, data-driven systems** that solve real-world problems usin
 ---
 
 ## 🧠 Areas of Interest
-```text
+
 🤖 Generative AI & LLMs
 📚 Retrieval-Augmented Generation (RAG)
 🧠 AI Agents
