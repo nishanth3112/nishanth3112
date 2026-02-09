@@ -140,7 +140,6 @@ I strongly believe **data quality matters more than model complexity**, and well
 
 ---
 
-⭐ Feel free to explore my repositories and connect — always open to collaboration and learning!
 ### 📌 Featured Repositories
 1. 🔮 **Fashion Diffusion Model**  
    https://github.com/nishanth3112/gen_proj_fashion_diffusion_model
@@ -156,3 +155,5 @@ I strongly believe **data quality matters more than model complexity**, and well
 
 5. 💬 **Conversational EDA Chatbot**  
    https://github.com/nishanth3112/eda_chatbot_
+
+   ## ⭐ Feel free to explore my repositories and connect — always open to collaboration and learning!
